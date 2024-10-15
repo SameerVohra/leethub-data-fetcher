@@ -11,5 +11,9 @@
   ],
   "permissions": [
     "scripting"
-  ]
+  ],
+  "icons": {
+    "48": "./leetcode.png",
+    "96": "./leetcode.png"
+  }
 }
